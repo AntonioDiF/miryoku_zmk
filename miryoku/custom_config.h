@@ -10,7 +10,7 @@
 U_NP,              U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP,              U_NP              
 
 #define MIRYOKU_LAYER_MOBA \
-&kp TAB,           &kp 1,             &kp 2,             &kp 3,             &kp 4,             &kp P,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             &kp LALT,          \
+&kp TAB,           &kp NUMBER_1,      &kp NUMBER_2,      &kp NUMBER_3,      &kp NUMBER_4,      &kp P,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             &kp LALT,          \
 &kp LSHFT,         &kp Q,             &kp W,             &kp E,             &kp R,             &kp S,             &kp H,             &kp J,             &kp K,             &kp L,             &kp SQT,           &kp TILDE,         \
 &kp LCTRL,         &kp T,             &kp D,             &kp F,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &kp DOT,           &kp SLASH,         U_NP,              \
 U_NP,              U_NP,              U_NP,              &kp LALT,           &kp SPACE,         &kp ESC,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP,              U_NP              
